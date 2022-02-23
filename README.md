@@ -11,7 +11,7 @@
 
 #### (b) add a collaborator
 
-* check the list [**here**]() to find your randomly assigned partners for this homework. You will appear as the owner of this repo with an associated collaborator. You will also appear as a collaborator for someone else's repo
+* check the list [**here**](img/homework-2-assignments.png) to find your randomly assigned partners for this homework. You will appear as the owner of this repo with an associated collaborator. You will also appear as a collaborator for someone else's repo
 * ask to be added as a collaborator to your designated owner's repo
 * add your collaborator to this repo
 
