@@ -19,9 +19,9 @@
 
 * create **one `pull` request per issue** you identify as subject to improvement. Note that the pull request should include the substantive change you are proposing for the repo. Note that you will not receive full marks is you do not add the change itself.
 * in your pull requests explain **why you are recommending specific changes** and **how do you perceive it might help** the you of the future. Note that you will not receive full marks if you do not add these explanations.
-* create at least three (5) pull requests to **improve the structure of the project** [`20 pts`]
+* create at least five (5) pull requests to **improve the structure of the project** [`20 pts`]
     * these could include - but are not limited to -  enhancements to the folder structure, adding an informative `README` file, adding items to the `.gitignore` file, dropping data folders, etc
-* create at least five (7) pull requests to **improve coding etiquette** [`40 pts`]
+* create at least seven (7) pull requests to **improve coding etiquette** [`40 pts`]
     * these could include - but are not limited to - reorganizing script structure, improving comments, using relative paths, improving readability, creating (and calling) additional scripts, etc
 
 
